@@ -1,0 +1,35 @@
+{
+  "item.tutorialmod.raw_tanzanite": "Raw Tanzanite",
+  "item.tutorialmod.tanzanite": "Tanzanite",
+  "item.tutorialmod.eight_ball": "Eight Ball",
+  "item.tutorialmod.eggplant": "Eggplant",
+  "item.tutorialmod.eggplant_seeds": "Eggplant Seeds",
+  "item.tutorialmod.soap_water_bucket": "Soap Water Bucket",
+  "item.tutorialmod.kaupensword": "Kaupen Sword",
+  "item.tutorialmod.chomper_spawn_egg": "Chomper Spawn Egg",
+
+  "block.tutorialmod.tanzanite_block": "Block of Tanzanite",
+  "block.tutorialmod.tanzanite_ore": "Tanzanite Ore",
+  "block.tutorialmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.tutorialmod.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
+  "block.tutorialmod.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
+  "block.tutorialmod.jumpy_block": "Jumpy Block",
+  "block.tutorialmod.tanzanite_lamp": "Tanzanite Lamp",
+  "block.tutorialmod.eggplant_crop": "Eggplant Crop",
+  "block.tutorialmod.gem_infusing_station": "Gem Infusing Station",
+  "block.tutorialmod.soap_water": "Soap Water",
+
+
+  "itemGroup.tutorialmod.tanzanite": "Tanzanite Tutorial Tab",
+
+  "entity.minecraft.villager.jumpmaster": "Jump Master",
+
+  "key.category.tutorialmod.tutorial": "Tutorial Mod",
+  "key.tutorialmod.drink_water": "Drink Water Key",
+
+  "message.tutorialmod.drank_water": "Drank Water!",
+  "message.tutorialmod.no_water": "No Water around!",
+
+  "tutorialmod.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "tutorialmod.tooltip.liquid.amount": "%s mB"
+}
